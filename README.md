@@ -1,1 +1,1 @@
-# Trading-Rules-Generation-Genetic-Algorithm
+# Generation of trading rules using genetic algorithm and technical indicators
